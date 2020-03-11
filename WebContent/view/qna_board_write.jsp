@@ -68,6 +68,7 @@
 <script src="../js/writevalidation.js"></script>
 <%@include file="../include/footer.jsp"%>
 
+<!-- write 수정  -->
 
 
 
